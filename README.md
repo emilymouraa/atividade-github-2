@@ -1,1 +1,2 @@
-# atividade-github-2
+# Atividade de GitHub
+Este repositório foi criado para praticar versionamento.
